@@ -37,3 +37,6 @@ and the images can be swapped for more relevant ones.
 
 The website can now be viewed and used. The data entered in the reservation
 form will be stored in database.db.
+
+A note on AI: Github Copilot was used to generate the backend (server.js) and edit 
+some of the front end files (index.html, script.js). The rest was done by a human.
